@@ -1,1 +1,12 @@
 langgraph
+langchain_community
+langchain_core
+tavily-python
+wikipedia
+langchain-openai==0.3.32
+langchain-google-genai==2.1.8
+langchain-groq==0.3.6
+structlog
+python-docx
+reportlab
+-e .
