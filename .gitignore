@@ -12,3 +12,5 @@ venv/
 log/
 logs/
 .env
+user.db
+users.db
